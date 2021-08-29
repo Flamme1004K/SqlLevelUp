@@ -38,3 +38,7 @@ UNION을 CASE보다 성능적으로 좋게 하기 위해서는, UNION의 WHERE �
 - IN 또는 CASE 식으로 조건 분기를 표현할 수 있다면, 테이블에의 스캔을 크게 감소스킬 가능성이 있음.
 - 이를 위해서라도, 구문에서 식으로의 패러다음 전환을 연습.
 
+
+## leecode 문제
+
+https://leetcode.com/problems/big-countries/
